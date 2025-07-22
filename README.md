@@ -34,8 +34,6 @@ I’m **Saurabh Gupta**, a frontend developer passionate about building beautifu
 - CSS3
 - JavaScript
 
----
 
-## 📂 Folder Structure
 
 
